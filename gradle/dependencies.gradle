@@ -116,7 +116,7 @@ versions += [
   slf4j: "1.7.36",
   snappy: "1.1.8.4",
   spotbugs: "4.2.2",
-  zinc: "1.3.5",
+  zinc: "1.4.4",
   zookeeper: "3.6.3",
   zstd: "1.5.2-1"
 ]
